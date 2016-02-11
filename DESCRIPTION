@@ -1,0 +1,9 @@
+Package: RStudioAddins
+Type: Package
+Title: Adding personal RStudio Addins
+Version: 0.1.0
+Author: Johannes G Brenner
+Maintainer: Johannes G Brenner <Johannes.Brenner@eurac.edu>
+Description: simple helpful RStudio Addins
+License: What license is it under?
+LazyData: TRUE
